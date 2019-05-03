@@ -5,6 +5,8 @@ dist/
 _trash/
 trash/
 
+*correction*
+
 # Misc files:
 *.sh
 !README.md
